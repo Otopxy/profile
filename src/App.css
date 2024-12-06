@@ -19,12 +19,15 @@ body {
   text-align: center;
   padding: 40px 20px; /* Adjust top and bottom padding */
   display: flex;
+  padding: 1rem;
   flex-wrap: wrap;
   align-items: center; /* Vertically center the content */
   justify-content: space-between; /* Space between the image and text */
 }
 
 header img {
+  padding: 1rem;
+  flex-wrap: wrap;
   width: 150px; /* Adjust the width */
   height: auto; /* Maintain aspect ratio */
   padding-top: 0; /* Optional, if you need padding adjustment */
