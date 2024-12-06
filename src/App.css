@@ -19,6 +19,7 @@ body {
   text-align: center;
   padding: 40px 20px; /* Adjust top and bottom padding */
   display: flex;
+  flex-wrap: wrap;
   align-items: center; /* Vertically center the content */
   justify-content: space-between; /* Space between the image and text */
 }
