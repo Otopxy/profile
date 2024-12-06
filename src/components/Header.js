@@ -15,7 +15,7 @@ function Header() {
       
           <a href="https://linkedin.com/in/temidolajide">Linkedin ||   </a>
       
-          <a href="github.com/otopxy">Github</a>
+          <a href="https://github.com/otopxy">Github</a>
         </p>
         <p>
           
