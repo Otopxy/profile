@@ -7,7 +7,7 @@ function Education() {
       <div>
         <h3>Western Illinois University (WIU)</h3>
         <p><strong>Computer Science (Masters) - 2024 (Expected Dec 2025)</strong></p>
-        <p>Current GPA: 4.0/4.0</p>
+        <p>Current GPA: 3.8/4.0</p>
       </div>
       <div>
         <h3>Federal Polytechnic, Ede</h3>
