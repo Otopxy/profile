@@ -6,8 +6,8 @@ function Certifications() {
       <h2>Training & Certifications</h2>
       <ul>
         <li>Operating Systems.</li>
-        <li>Computer Networking.</li>
         <li>Software Engineering.</li>
+        <li>Computer Networking.</li>
         <li>Computer Architecture.</li>
         <li>Circuit Theory and Electronics.</li>
         <li>Computer and Information Security.</li>
