@@ -10,6 +10,7 @@ function Projects() {
         <p>Blockchain Wallet Tracking System.</p>
         <p>Sport Item MarketPlace.</p>
         <p>Agriculture MarketPlace.</p>
+        <p>NLP-bot-diagnostics chatbot</p>
       </i>
       </div>
     </section>
