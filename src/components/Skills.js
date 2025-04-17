@@ -10,7 +10,7 @@ function Skills() {
       </div>
       <div>
         <h3>Tools & Platforms:</h3>
-        <p>dotNet, SQL, MongoDB, Cloud Services (Azure), Git, Blockchain (Ethereum, Hyperledger)</p>
+        <p>dotNet, SQL, MongoDB, Cloud Services (Azure, AWS), Git, Blockchain (Ethereum, Hyperledger)</p>
       </div>
       <div>
         <h3>Blockchain & Smart Contracts:</h3>
