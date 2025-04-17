@@ -1,5 +1,5 @@
 import React from 'react';
-
+import myImage from './images/resume-qr.pngg'; // Import image
 function Projects() {
   return (
     <section className="projects">
@@ -16,7 +16,7 @@ function Projects() {
     
     <h2>Resume</h2>
     <p> Scan to see a copy of my resume:<br>
-    <img src="resume-qr.png" alt="My resume QR Code" width="200" height="100"> <br>
+    <img src={myImage} alt="My resume QR Code" width="200" height="100"> <br>
     </p>
     </section>
   );
