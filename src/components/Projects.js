@@ -16,7 +16,7 @@ function Projects() {
     
     <h2>Resume</h2>
     <p> Scan to see a copy of my resume:<br></br>
-    <img src={myImage} alt="My resume QR Code"> <br></br>
+    <img src={myImage} alt="My resume QR Code"/> <br></br>
     </p>
     </section>
   );
