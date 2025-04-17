@@ -13,6 +13,11 @@ function Projects() {
         <p>NLP-bot-diagnostics chatbot</p>
       </i>
       </div>
+    <div>
+    <h2>Resume</h2>
+    <p> Scan to see a copy of my resume:</p>
+    <img src="resume-qr.jpg" alt="My resume QR Code" width="200" height="100"> 
+    </div>
     </section>
   );
 }
