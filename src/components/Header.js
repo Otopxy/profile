@@ -1,5 +1,5 @@
 import React from 'react';
-import myImage from './images/otop.jpg'; // Import image
+import myImage from './images/temiphoto.jpg'; // Import image
 
 function Header() {
   return (
